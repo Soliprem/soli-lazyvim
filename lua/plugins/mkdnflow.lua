@@ -71,9 +71,9 @@ return {
           MkdnPrevHeading = { "n", "[[" },
           MkdnGoBack = { "n", "<BS>" },
           MkdnGoForward = { "n", "<Del>" },
-          MkdnCreateLink = false, -- see MkdnEnter
+          MkdnCreateLink = false,                                       -- see MkdnEnter
           MkdnCreateLinkFromClipboard = { { "n", "v" }, "<leader>pp" }, -- see MkdnEnter
-          MkdnFollowLink = false, -- see MkdnEnter
+          MkdnFollowLink = false,                                       -- see MkdnEnter
           MkdnDestroyLink = { "n", "<M-CR>" },
           MkdnTagSpan = { "v", "<M-CR>" },
           MkdnMoveSource = { "n", "<F2>" },
