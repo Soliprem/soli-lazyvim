@@ -13,3 +13,4 @@ I have added the following plugins:
 - [nabla](https://github.com/jbyuki/nabla.nvim)
 - [pets](https://github.com/giusgad/pets.nvim)
 - [transparent](https://github.com/xiyaowong/transparent.nvim)
+And some others. IDK, you can see the names in lua/plugins
